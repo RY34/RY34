@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RY34
 - 👀 I’m interested in game dev and webmastering
 - 🌱 I’m currently learning javascript and java
-- 📫 My mail -> klaudek1ryba@gmail.com
+- 📫 My mail -> klaudiusz.kulczynski@gmail.com
 
 <!---
 RY34/RY34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
