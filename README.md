@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RY34
 - 👀 I’m interested in game dev and webmastering
-- 🌱 I’m currently learning javascript and java
+- 🌱 I’m currently coding in vanilla js
 - 📫 My mail -> klaudiusz.kulczynski@gmail.com
 
 <!---
