@@ -2,6 +2,7 @@
 - 👀 I’m interested in game dev and webmastering
 - 🌱 I’m currently coding in vanilla js
 - 📫 My mail -> klaudiusz.kulczynski@gmail.com
+- Linux enthusiast
 
 <!---
 RY34/RY34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
