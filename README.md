@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @RY34
-- 👀 I’m interested in getting better at python
-- 🌱 I’m currently coding in vanilla js & python 
-- 📫 My mail -> klaudiusz.kulczynski@pm.me
+- Hi, I’m @RY34
+- My mail -> klaudiusz.kulczynski@pm.me
 - Linux enthusiast
 
 <!---
